@@ -1,7 +1,7 @@
 .env
 .vscode/
 .venv/
-energy-pipeline.code-workspace
+energy-emissions-analysis.code-workspace
 # Created by https://www.toptal.com/developers/gitignore/api/python,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,windows
 
